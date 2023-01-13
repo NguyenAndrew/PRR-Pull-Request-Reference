@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-[1. Intro to PRR](#1.-intro-to-prr)
+[1. Intro to PRR](#1-intro-to-prr)
 
-[2. Definitions](#2.-definitions)
+[2. Definitions](#2-definitions)
 
-[3. Reviewers](#3.-reviewers)
+[3. Reviewers](#3-reviewers)
 
-&nbsp;&nbsp;[3.1 Comment Labels](#3.1-comment-labels)
+&nbsp;&nbsp;[3.1 Comment Labels](#31-comment-labels)
 
-&nbsp;&nbsp;[3.2 Comment Labels Exceptions](#3.2-comment-label-exceptions)
+&nbsp;&nbsp;[3.2 Comment Labels Exceptions](#32-comment-label-exceptions)
 
-&nbsp;&nbsp;[3.3 Resolved](#3.3-resolved)
+&nbsp;&nbsp;[3.3 Resolved](#33-resolved)
 
 ## 1. Intro to PRR
 
