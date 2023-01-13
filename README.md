@@ -31,7 +31,7 @@ As a reviewer, when making a comment that is not a reply, you must include one o
 * `Discussion:` - Something that the reviewer wants to talk about with others. Does not impact approval.
 * `Recommendation:` - A change recommended by the reviewer. Does not impact approval
 * `Minor:` - Indicating an issue with the pull request. The pull request is not going to be approved, untill this minor issue is resolved. 
-* `Major:` - Indicating a major issue with the pull request. The reviewer is going to mark the pull request as "changes request", untill this major issue is resolved.
+* `Major:` - Indicating a major issue with the pull request. The reviewer is going to mark the pull request as "changes requested", untill this major issue is resolved.
 
 ### 3.2 Comment Label Exceptions
 There are two exceptions cases, where you do not have to use a Comment Label:
