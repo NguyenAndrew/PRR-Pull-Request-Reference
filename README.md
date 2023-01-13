@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;[3.1 Comment Labels](#3.1-comment-labels)
 
+&nbsp;&nbsp;[3.2 Comment Labels Exceptions](#3.2-comment-label-exceptions)
+
 ## 1. Intro to PRR
 
 PRR, the Pull Request Reference, is a comprehensive guide that you can refer to when working with pull requests.
@@ -30,3 +32,10 @@ As a reviewer, when making a comment that is not a reply, you must include one o
 * `Recommendation:` - A change recommended by the reviewer. Does not impact approval
 * `Minor:` - Indicating an issue with the pull request. The pull request is not going to be approved, untill this minor issue is resolved. 
 * `Major:` - Indicating a major issue with the pull request. The reviewer is going to mark the pull request as "changes request", untill this major issue is resolved.
+
+### 3.2 Comment Label Exceptions
+There are two exceptions cases, where you do not have to use a Comment Label:
+
+* You are giving a compliment on a pull request change
+* The mandatory comment as part of marking a pull request as "changes requested", or the optional comment that can be provided when marking a pull request as "approved".
+
