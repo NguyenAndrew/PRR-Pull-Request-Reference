@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;[3.2 Comment Labels Exceptions](#3.2-comment-label-exceptions)
 
+&nbsp;&nbsp;[3.3 Resolved](#3.3-resolved)
+
 ## 1. Intro to PRR
 
 PRR, the Pull Request Reference, is a comprehensive guide that you can refer to when working with pull requests.
@@ -39,3 +41,9 @@ There are two exceptions cases, where you do not have to use a Comment Label:
 * You are giving a compliment on a pull request change.
 * The mandatory comment as part of marking a pull request as "changes requested", or the optional comment that can be provided when marking a pull request as "approved".
 
+### 3.3 Resolved
+
+After leaving a comment that is either "Major", "Minor", or "Recommendation", the pull request may be updated to address the comment. After an author replies that they believe the necessary changes have been made for this comment, you (the reviewer) must follow up with a reply. This reply should be one of the following scenarios:
+
+* If the changes are not satisfactory, the reviewer should reply and state what still needs to be done
+* If the changes are satisfactory, the reviewer should leave a replying including the word "Resolved", and mark the comment thread as resolved.
