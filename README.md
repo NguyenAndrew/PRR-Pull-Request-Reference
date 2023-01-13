@@ -12,4 +12,6 @@ PRR, the Pull Request Reference, is a comprehensive guide that you can refer to 
 
 ## 2. Definitions
 
-Insert definitions here
+Author - The person that created the pull request. By default, when using the word "Author", we mean someone that works on the team that owns the codebase. Otherwise, "External Author" refers to an author that created a pull request to a codebase that their teams does not own.
+
+Reviewer - A person assigned to review a pull request. They leave comments to a pull request, and mark it as "approved" or "changes requested". 
