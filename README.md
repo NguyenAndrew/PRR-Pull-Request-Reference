@@ -36,6 +36,6 @@ As a reviewer, when making a comment that is not a reply, you must include one o
 ### 3.2 Comment Label Exceptions
 There are two exceptions cases, where you do not have to use a Comment Label:
 
-* You are giving a compliment on a pull request change
+* You are giving a compliment on a pull request change.
 * The mandatory comment as part of marking a pull request as "changes requested", or the optional comment that can be provided when marking a pull request as "approved".
 
